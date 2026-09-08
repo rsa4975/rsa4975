@@ -7,9 +7,9 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "assignment-1"
+  - title: "A-1"
     url: /assignment-1/
-  - title: "assignment-2"
+  - title: "A-2"
     url: /assignment-2/
-  - title: "assignment-3"
+  - title: "A-3"
     url: /assignment-3/

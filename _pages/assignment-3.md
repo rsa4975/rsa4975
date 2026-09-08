@@ -1,6 +1,6 @@
 ---
 permalink: /assignment-3/
-title: "assignment-3"
+title: "A-3"
 ---
 
 o
