@@ -3,8 +3,8 @@ title: "dln"
 permalink: /dln/
 author_profile: false
 ---
-# Digital Horizons: Reframing Media, Code, and Critical Thought
 
+# gemini
 As a 20-year-old university student double-majoring in Interactive Media and Literature, sitting in a classroom filled with peers from Computer Science, Environmental Studies, Engineering, and Film, I often find myself operating at the intersection of story and system. At this age, my generation is frequently labeled as "digital natives." The assumption is that because we grew up with smartphones in our hands, we possess an innate mastery over technology. However, my journey in higher education has revealed a stark difference between fluent digital consumption and genuine digital literacy. 
 
 In my daily life, content creation and social interaction are second nature, but they rely on structured strategies. For creative projects, I move fluidly between toolsets: drafting visual assets and UI prototypes in Figma, editing video in Adobe Premiere, and leveraging Markdown platforms like Notion to manage project documentation and narrative outlines. Social interaction across digital spaces is similarly tactical; it requires navigating platform algorithms, maintaining distinct personal and academic identities, and evaluating source credibility in real-time. 
@@ -22,3 +22,7 @@ This collaborative synergy becomes even more vital as we navigate the rapidly ev
 Reflecting on my current abilities, I recognize both my strengths and my blind spots. While I am adept at media production, qualitative critique, and front-end design, my quantitative data manipulation skills are still developing. In this course, I am discovering that code is not an intimidating black box, but rather a flexible medium for inquiry. I am realizing that computational tools do not replace critical reading or artistic intuition; instead, they amplify them, allowing us to ask questions at a scale previously impossible.
 
 Looking ahead, the new ways of thinking I want to explore involve deep computational creativity and ethical data visualization. I want to learn how to build interactive narratives that respond dynamically to real-world data, transforming abstract metrics about issues like climate change or social migration into immersive human stories. By continuing to blur the lines between technology and the humanities, I hope to cultivate a digital literacy that is not just functional, but deeply critical, creative, and collaborative.
+
+#claude
+
+#gpt
