@@ -1,7 +1,7 @@
 ---
 title: "dln"
 permalink: /dln/
-author_profile: false
+author_profile: true
 ---
 
 # gemini
